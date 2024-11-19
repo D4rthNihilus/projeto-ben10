@@ -27,6 +27,10 @@ h1, h2 {
     margin-bottom: 20px;
 }
 
+h2 {
+    font-size: 1em;
+}
+
 div#mobile {
     max-width: 768px;
     background-color: lime;
