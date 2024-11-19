@@ -35,3 +35,8 @@ div#mobile {
 div#mobile > img {
     width: 728px;
 }
+
+div#aliens {
+    background-color: aqua;
+    height: 700px;
+}
