@@ -23,13 +23,15 @@ div#border {
 
 h1, h2 {
     text-align: center;
-    color: lime
+    color: lime;
+    margin-bottom: 20px;
 }
 
 div#mobile {
-    transform: translate(-40px);
+    max-width: 768px;
+    background-color: lime;
 }
 
 div#mobile > img {
-    width: 100px;
+    width: 728px;
 }
