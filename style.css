@@ -34,10 +34,24 @@ div#mobile {
 
 div#mobile > img {
     max-width: 100%;
-    background-color: red;
 }
 
 div#aliens {
-    background-color: aqua;
     height: 700px;
+}
+
+div#aliens > ul#aliens-list {
+    column-count: 7;
+    list-style-type: none;
+    margin: 10px;
+}
+
+div#aliens > ul#aliens-list > li > a > img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+div#aliens > ul#aliens-list > li > a > img:hover {
+    border: 3px solid white;
+    box-sizing: border-box;
 }
