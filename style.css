@@ -28,4 +28,5 @@ h1, h2 {
 
 img#mobile {
     width: 500px;
+    transform: translate(-40px);
 }
