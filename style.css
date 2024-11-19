@@ -48,6 +48,7 @@ div#aliens > ul#aliens-list {
     column-count: 7;
     list-style-type: none;
     margin: 10px 0px;
+    background-color: brown;
 }
 
 div#aliens > ul#aliens-list > li > a > img {
