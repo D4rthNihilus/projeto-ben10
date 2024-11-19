@@ -26,7 +26,10 @@ h1, h2 {
     color: lime
 }
 
-img#mobile {
-    width: 500px;
+div#mobile {
     transform: translate(-100px);
+}
+
+div#mobile > img {
+    width: 500px;
 }
