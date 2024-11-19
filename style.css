@@ -33,7 +33,7 @@ div#mobile {
 }
 
 div#mobile > img {
-    width: 600px;
+    max-width: 100%;
     background-color: red;
 }
 
