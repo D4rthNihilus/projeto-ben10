@@ -59,6 +59,6 @@ div#aliens > ul#aliens-list > li > a > img {
 }
 
 div#aliens > ul#aliens-list > li > a > img:hover {
-    border: 3px solid white;
+    border: 2px solid white;
     box-sizing: border-box;
 }
