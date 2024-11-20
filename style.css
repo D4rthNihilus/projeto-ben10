@@ -46,6 +46,7 @@ div#iframe {
     left: 49%;
 
     transform: translate(-21.7%, -50%);
+    background-color: cyan;
 }
 
 div#iframe > iframe {
