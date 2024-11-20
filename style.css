@@ -23,7 +23,7 @@ div#border {
 h1, h2 {
     line-height: 1em;
     text-align: center;
-    color: lime;
+    color: #F2E201;
 }
 
 h2 {
@@ -34,7 +34,6 @@ h2 {
 
 div#mobile {
     max-width: 768px;
-    background-color: lime;
 }
 
 div#mobile > img {
@@ -43,15 +42,15 @@ div#mobile > img {
 
 div#iframe {
     position: absolute;
-    top: 346px;
+    top: 700px;
     left: 50%;
 
     transform: translate(-21.7%, -50%);
 }
 
 div#iframe > iframe {
-    width: 206px;
-    height: 438px;
+    width: 160px;
+    height: 1038px;
     border-radius: 23px;;
 }
 
@@ -63,7 +62,6 @@ div#aliens > ul#aliens-list {
     column-count: 7;
     list-style-type: none;
     margin: 10px 0px;
-    background-color: purple;
 }
 
 div#aliens > ul#aliens-list > li > a > img {
