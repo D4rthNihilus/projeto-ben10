@@ -74,6 +74,6 @@ div#aliens > ul#aliens-list > li > a > img {
 }
 
 div#aliens > ul#aliens-list > li > a > img:hover {
-    border: 2px solid white;
+    border: 3px solid white;
     box-sizing: border-box;
 }
