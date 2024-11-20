@@ -22,13 +22,14 @@ div#border {
 }
 
 h1, h2 {
+    line-height: 1em;
     text-align: center;
     color: lime;
-    margin-bottom: 20px;
 }
 
 h2 {
     font-size: 1em;
+    margin-bottom: 20px;
 }
 
 div#mobile {
