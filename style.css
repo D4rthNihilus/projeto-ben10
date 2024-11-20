@@ -41,6 +41,20 @@ div#mobile > img {
     max-width: 100%;
 }
 
+div#iframe {
+    position: absolute;
+    top: 346px;
+    left: 50%;
+
+    transform: translate(-21.7%, -50%);
+}
+
+div#iframe > iframe {
+    width: 206px;
+    height: 438px;
+    border-radius: 23px;;
+}
+
 div#aliens {
     height: 500px;
 }
