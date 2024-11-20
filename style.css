@@ -56,7 +56,7 @@ div#aliens > ul#aliens-list > li > a > img {
     width: 50px;
     margin-right: 6px;
     border-radius: 50%;
-    margin-left: -6px;
+    margin-left: -3px;
 }
 
 div#aliens > ul#aliens-list > li > a > img:hover {
