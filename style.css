@@ -43,7 +43,7 @@ div#mobile > img {
 div#iframe {
     position: absolute;
     top: 250px;
-    left: 49%;
+    left: 52%;
 
     transform: translate(-21.7%, -50%);
     background-color: cyan;
@@ -51,7 +51,7 @@ div#iframe {
 
 div#iframe > iframe {
     width: 160px;
-    height: 300px;
+    height: 295px;
     border-radius: 23px;
     background-color: cyan;
 }
