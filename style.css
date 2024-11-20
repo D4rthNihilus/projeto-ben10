@@ -23,7 +23,7 @@ div#border {
 h1, h2 {
     line-height: 1em;
     text-align: center;
-    color: #F2E201;
+    color: #75f201;
 }
 
 h2 {
@@ -50,7 +50,7 @@ div#iframe {
 
 div#iframe > iframe {
     width: 160px;
-    height: 1038px;
+    height: 538px;
     border-radius: 23px;
 }
 
