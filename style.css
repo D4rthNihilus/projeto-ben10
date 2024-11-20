@@ -49,6 +49,7 @@ div#aliens > ul#aliens-list {
     list-style-type: none;
     margin: 10px 0px;
     background-color: brown;
+    margin-left: -3px;
 }
 
 div#aliens > ul#aliens-list > li > a > img {
