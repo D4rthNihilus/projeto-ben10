@@ -48,8 +48,8 @@ div#iframe {
 }
 
 div#iframe > iframe {
-    width: 160px;
-    height: 644px;
+    width: 150px;
+    height: 970px;
     border-radius: 23px;
 }
 
