@@ -34,6 +34,7 @@ h2 {
 
 div#mobile {
     max-width: 768px;
+    position: relative;
 }
 
 div#mobile > img {
@@ -42,9 +43,9 @@ div#mobile > img {
 
 div#iframe {
     position: absolute;
-    left: 49.5%;
+    left: 50%;
 
-    transform: translate(-53%,0%);
+    transform: translate(-50%, -40%);
 }
 
 div#iframe > iframe {
