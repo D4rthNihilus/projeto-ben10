@@ -46,14 +46,12 @@ div#iframe {
     left: 49.5%;
 
     transform: translate(-21.7%, -50%);
-    background-color: cyan;
 }
 
 div#iframe > iframe {
     width: 160px;
     height: 335px;
     border-radius: 23px;
-    background-color: cyan;
 }
 
 div#aliens {
