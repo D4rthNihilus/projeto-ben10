@@ -50,7 +50,7 @@ div#iframe {
 
 div#iframe > iframe {
     width: 150px;
-    height: 970px;
+    height: 300px;
     border-radius: 23px;
 }
 
