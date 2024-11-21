@@ -51,7 +51,7 @@ div#iframe {
 
 div#iframe > iframe {
     width: 160px;
-    height: 300px;
+    height: 340px;
     border-radius: 23px;
     background-color: cyan;
 }
