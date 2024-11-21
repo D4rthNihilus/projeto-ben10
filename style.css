@@ -44,7 +44,7 @@ div#iframe {
     position: absolute;
     left: 49.5%;
 
-    transform: translate(-50%,0%);
+    transform: translate(-52%,0%);
 }
 
 div#iframe > iframe {
