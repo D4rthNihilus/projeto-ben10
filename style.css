@@ -49,6 +49,7 @@ div#iframe {
 }
 
 div#iframe > iframe {
+    height: 400px;
     width: 148px;
     border-radius: 23px;
 }
