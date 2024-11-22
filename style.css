@@ -43,10 +43,7 @@ div#mobile > img {
 }
 
 div#iframe {
-    position: absolute;
-    left: 50%;
-    height: 500;
-    transform: translate(-50%, 0%);
+    
 }
 
 div#iframe > iframe {
