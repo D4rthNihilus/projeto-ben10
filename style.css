@@ -44,13 +44,12 @@ div#mobile > img {
 div#iframe {
     position: absolute;
     left: 50%;
-
+    height: 380px;
     transform: translate(-50%, -100%);
 }
 
 div#iframe > iframe {
     width: 148px;
-    height: 380px;
     border-radius: 23px;
 }
 
