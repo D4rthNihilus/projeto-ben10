@@ -49,7 +49,6 @@ div#iframe {
 div#iframe > iframe {
     position: absolute;
     top: 50%;
-    left: 49%;
     height: 440px;
     border-radius: 23px;
     transform: translate(0%, -50%);
