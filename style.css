@@ -35,7 +35,6 @@ h2 {
 div#mobile {
     max-width: 768px;
     position: relative;
-    background-color: pink;
 }
 
 div#mobile > img {
