@@ -50,6 +50,7 @@ div#iframe > iframe {
     position: absolute;
     top: 48%;
     height: 290px;
+    width: 140px;
     border-radius: 23px;
     transform: translate(0%, -50%);
     background-color: blue;
