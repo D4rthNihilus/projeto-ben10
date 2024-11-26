@@ -49,8 +49,8 @@ div#iframe {
 div#iframe > iframe {
     position: absolute;
     top: 48%;
-    height: 290px;
-    width: 170px;
+    height: 285px;
+    width: 160px;
     border-radius: 23px;
     transform: translate(0%, -50%);
     background-color: blue;
