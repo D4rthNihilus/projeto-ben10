@@ -55,7 +55,7 @@ iframe {
     border-radius: 23px;
     padding-top: 20%;
     padding-bottom: 20%;
-    background-color: blue;
+    background-color: rgb(255, 0, 0);
 }
 
 div#aliens {
