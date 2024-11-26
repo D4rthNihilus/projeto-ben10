@@ -51,7 +51,9 @@ iframe {
     transform: translate(-50%, -50%);
     height: 82%;
     width: 42%;
+
     border-radius: 23px;
+    padding: 9%, 0%;
     background-color: blue;
 }
 
