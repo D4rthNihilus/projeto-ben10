@@ -11,9 +11,11 @@ body {
 
 h1 {
     text-align: center;
-    margin: auto; 
-    position: absolute;
-    left: 10%;
-    top: 90%;  
-    color: white;  
+    margin: auto;
+    margin-top: 340px; 
+    color: white;
+    background-color: #0612225e;
+    text-shadow: 2px 2px 3px #061222;;
+    border-radius: 30px;
+    padding: 2px;
 }
