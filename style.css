@@ -35,6 +35,7 @@ h2 {
 div#mobile {
     max-width: 768px;
     position: relative;
+    background-color: pink;
 }
 
 div#mobile > img {
@@ -42,17 +43,15 @@ div#mobile > img {
     max-height: 100%;
 }
 
-div#iframe {
-    background-color: aqua;
-}
 
-div#iframe > iframe {
+iframe {
     position: absolute;
-    top: 30%;
-    height: 285px;
-    width: 158px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 60%;
+    width: 40%;
     border-radius: 23px;
-    transform: translate(0%, -35%);
     background-color: blue;
 }
 
