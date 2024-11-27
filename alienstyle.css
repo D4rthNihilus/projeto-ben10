@@ -13,7 +13,7 @@ body {
 p {
     text-align: center;
     margin: auto;
-    color: white;
+    color: rgb(255, 255, 255);
     background-color: #0612225e;
     text-shadow: 2px 2px 3px #061222;;
     border-radius: 30px;
